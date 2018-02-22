@@ -73,8 +73,6 @@ MonoBehaviour:
     Pitch: 0
   - Timing: 26
     Pitch: 3
-  - Timing: 26.25
-    Pitch: 3
   - Timing: 26.5
     Pitch: 2
   - Timing: 27
@@ -98,43 +96,37 @@ MonoBehaviour:
   - Timing: 31.5
     Pitch: 0
   - Timing: 32
-    Pitch: 3
+    Pitch: 4
   - Timing: 32.5
     Pitch: 1
   - Timing: 33
-    Pitch: 3
+    Pitch: 2
   - Timing: 33.5
-    Pitch: 0
+    Pitch: 1
   - Timing: 34
     Pitch: 2
   - Timing: 34.5
     Pitch: 1
   - Timing: 35
-    Pitch: 3
+    Pitch: 2
   - Timing: 35.5
     Pitch: 1
   - Timing: 36
-    Pitch: 3
+    Pitch: 2
   - Timing: 36.5
     Pitch: 1
   - Timing: 37
-    Pitch: 3
+    Pitch: 2
   - Timing: 37.5
     Pitch: 1
   - Timing: 38
     Pitch: 4
   - Timing: 38.5
-    Pitch: 2
-  - Timing: 38.75
-    Pitch: 3
+    Pitch: 1
   - Timing: 39
     Pitch: 3
-  - Timing: 39.25
-    Pitch: 3
   - Timing: 39.5
-    Pitch: 2
-  - Timing: 39.75
-    Pitch: 2
+    Pitch: 1
   - Timing: 40
     Pitch: 3
   - Timing: 40.5
@@ -159,49 +151,43 @@ MonoBehaviour:
     Pitch: 1
   - Timing: 45.5
     Pitch: 0
-  - Timing: 45.75
-    Pitch: 0
   - Timing: 46
-    Pitch: 2
-  - Timing: 46.25
     Pitch: 2
   - Timing: 46.5
     Pitch: 3
   - Timing: 47
-    Pitch: 1
+    Pitch: 2
   - Timing: 47.5
     Pitch: 0
   - Timing: 48
-    Pitch: 3
+    Pitch: 4
   - Timing: 48.5
-    Pitch: 1
+    Pitch: 2
   - Timing: 49
     Pitch: 3
   - Timing: 49.5
-    Pitch: 1
+    Pitch: 2
   - Timing: 50
     Pitch: 3
   - Timing: 50.5
-    Pitch: 1
+    Pitch: 2
   - Timing: 51
-    Pitch: 2
+    Pitch: 3
   - Timing: 51.5
-    Pitch: 3
+    Pitch: 2
   - Timing: 52
-    Pitch: 2
-  - Timing: 52.5
     Pitch: 3
+  - Timing: 52.5
+    Pitch: 2
   - Timing: 53
-    Pitch: 2
+    Pitch: 3
   - Timing: 53.5
-    Pitch: 4
-  - Timing: 54
     Pitch: 2
+  - Timing: 54
+    Pitch: 4
   - Timing: 54.5
     Pitch: 3
-  - Timing: 54.75
-    Pitch: 3
-  - Timing: 55
+  - Timing: 0
     Pitch: 2
   - Timing: 55.5
     Pitch: 3
@@ -212,8 +198,6 @@ MonoBehaviour:
   - Timing: 57
     Pitch: 0
   - Timing: 57.5
-    Pitch: 3
-  - Timing: 57.75
     Pitch: 3
   - Timing: 58
     Pitch: 2
@@ -238,140 +222,256 @@ MonoBehaviour:
   - Timing: 63
     Pitch: 0
   - Timing: 63.5
-    Pitch: 3
+    Pitch: 4
   - Timing: 64
     Pitch: 1
   - Timing: 64.5
-    Pitch: 2
+    Pitch: 3
   - Timing: 65
     Pitch: 1
   - Timing: 65.5
-    Pitch: 3
+    Pitch: 4
   - Timing: 66
-    Pitch: 2
+    Pitch: 1
   - Timing: 66.5
-    Pitch: 1
+    Pitch: 3
   - Timing: 67
-    Pitch: 2
+    Pitch: 1
   - Timing: 67.5
-    Pitch: 1
+    Pitch: 4
   - Timing: 68
-    Pitch: 2
+    Pitch: 1
   - Timing: 68.5
-    Pitch: 1
+    Pitch: 3
   - Timing: 69
-    Pitch: 2
+    Pitch: 1
   - Timing: 69.5
-    Pitch: 1
+    Pitch: 4
   - Timing: 70
-    Pitch: 4
+    Pitch: 1
   - Timing: 70.5
-    Pitch: 1
+    Pitch: 3
   - Timing: 71
-    Pitch: 3
-  - Timing: 71.25
-    Pitch: 3
+    Pitch: 1
   - Timing: 71.5
-    Pitch: 2
+    Pitch: 3
   - Timing: 72
-    Pitch: 3
+    Pitch: 2
   - Timing: 72.5
-    Pitch: 2
+    Pitch: 1
   - Timing: 73
-    Pitch: 1
+    Pitch: 0
   - Timing: 73.5
-    Pitch: 0
-  - Timing: 74
     Pitch: 3
+  - Timing: 74
+    Pitch: 2
   - Timing: 74.5
-    Pitch: 2
+    Pitch: 1
   - Timing: 75
-    Pitch: 1
+    Pitch: 0
   - Timing: 75.5
-    Pitch: 0
-  - Timing: 76
     Pitch: 4
+  - Timing: 76
+    Pitch: 2
   - Timing: 76.5
-    Pitch: 2
-  - Timing: 77
     Pitch: 1
-  - Timing: 77.5
+  - Timing: 77
     Pitch: 0
+  - Timing: 77.5
+    Pitch: 2
   - Timing: 78
-    Pitch: 2
-  - Timing: 78.25
-    Pitch: 2
+    Pitch: 3
   - Timing: 78.5
     Pitch: 2
+  - Timing: 79
+    Pitch: 0
+  - Timing: 79.5
+    Pitch: 4
   - Timing: 80
-    Pitch: 3
-  - Timing: 80.5
     Pitch: 2
+  - Timing: 80.5
+    Pitch: 3
   - Timing: 81
-    Pitch: 1
+    Pitch: 2
   - Timing: 81.5
+    Pitch: 4
+  - Timing: 82
+    Pitch: 2
+  - Timing: 82.5
+    Pitch: 3
+  - Timing: 83
+    Pitch: 2
+  - Timing: 83.5
+    Pitch: 3
+  - Timing: 84
+    Pitch: 1
+  - Timing: 84.5
+    Pitch: 2
+  - Timing: 85
+    Pitch: 4
+  - Timing: 85.5
+    Pitch: 2
+  - Timing: 86
+    Pitch: 3
+  - Timing: 86.5
+    Pitch: 2
+  - Timing: 87
+    Pitch: 4
+  - Timing: 87.5
+    Pitch: 3
+  - Timing: 88
+    Pitch: 2
+  - Timing: 88.5
+    Pitch: 1
+  - Timing: 89
+    Pitch: 4
+  - Timing: 89.5
+    Pitch: 3
+  - Timing: 90
+    Pitch: 2
+  - Timing: 90.5
+    Pitch: 1
+  - Timing: 91
+    Pitch: 4
+  - Timing: 91.5
+    Pitch: 3
+  - Timing: 92
+    Pitch: 2
+  - Timing: 92.5
+    Pitch: 1
+  - Timing: 93
+    Pitch: 4
+  - Timing: 93.5
+    Pitch: 3
+  - Timing: 94
+    Pitch: 2
+  - Timing: 94.5
+    Pitch: 1
+  - Timing: 95
+    Pitch: 3
+  - Timing: 95.5
+    Pitch: 2
+  - Timing: 96
+    Pitch: 1
+  - Timing: 96.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 97
+    Pitch: 3
+  - Timing: 97.5
+    Pitch: 2
+  - Timing: 98
+    Pitch: 1
+  - Timing: 98.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 99
+    Pitch: 3
+  - Timing: 99.5
+    Pitch: 2
+  - Timing: 100
+    Pitch: 1
+  - Timing: 100.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 101
+    Pitch: 3
+  - Timing: 101.5
+    Pitch: 2
+  - Timing: 102
+    Pitch: 1
+  - Timing: 102.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 103
+    Pitch: 4
+  - Timing: 103.5
+    Pitch: 2
+  - Timing: 104
+    Pitch: 1
+  - Timing: 104.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 105
+    Pitch: 4
+  - Timing: 105.5
+    Pitch: 2
+  - Timing: 106
+    Pitch: 1
+  - Timing: 106.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 107
+    Pitch: 4
+  - Timing: 107.5
+    Pitch: 2
+  - Timing: 108
+    Pitch: 1
+  - Timing: 108.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 109
+    Pitch: 4
+  - Timing: 109.5
+    Pitch: 2
+  - Timing: 110
+    Pitch: 1
+  - Timing: 110.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 111
+    Pitch: 4
+  - Timing: 111.5
+    Pitch: 3
+  - Timing: 112
+    Pitch: 2
+  - Timing: 112.5
+    Pitch: 1
+  - Timing: 113
+    Pitch: 4
+  - Timing: 113.5
+    Pitch: 3
+  - Timing: 114
+    Pitch: 2
+  - Timing: 114.5
+    Pitch: 1
+  - Timing: 115
+    Pitch: 4
+  - Timing: 115.5
+    Pitch: 3
+  - Timing: 116
+    Pitch: 1
+  - Timing: 116.5
     Pitch: 0
-  - Timing: 0
+  - Timing: 117
+    Pitch: 1
+  - Timing: 117.5
+    Pitch: 3
+  - Timing: 118
+    Pitch: 4
+  - Timing: 118.5
+    Pitch: 3
+  - Timing: 119
+    Pitch: 2
+  - Timing: 119.5
+    Pitch: 1
+  - Timing: 120
     Pitch: 0
-  - Timing: 0
+  - Timing: 120.5
+    Pitch: 3
+  - Timing: 121
+    Pitch: 2
+  - Timing: 121.5
+    Pitch: 1
+  - Timing: 122
     Pitch: 0
-  - Timing: 0
+  - Timing: 122.5
+    Pitch: 3
+  - Timing: 123
+    Pitch: 2
+  - Timing: 123.5
+    Pitch: 1
+  - Timing: 124
     Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
-    Pitch: 0
-  - Timing: 0
+  - Timing: 124.5
+    Pitch: 3
+  - Timing: 125
+    Pitch: 2
+  - Timing: 125.5
+    Pitch: 1
+  - Timing: 126
     Pitch: 0
   - Timing: 0
     Pitch: 0
