@@ -1,0 +1,417 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67b11da3454b1ed4f82fe43220d2c13f, type: 3}
+  m_Name: '[Light-Hawk-Wings]'
+  m_EditorClassIdentifier: 
+  AudioClip: {fileID: 8300000, guid: 58e328646292c3b48bcded8f1c802639, type: 3}
+  StartDelay: 2
+  Tempo: 170
+  Notes:
+  - Timing: 0
+    Pitch: 1
+  - Timing: 1
+    Pitch: 1
+  - Timing: 2
+    Pitch: 1
+  - Timing: 3
+    Pitch: 1
+  - Timing: 4
+    Pitch: 1
+  - Timing: 5
+    Pitch: 1
+  - Timing: 6
+    Pitch: 1
+  - Timing: 7
+    Pitch: 1
+  - Timing: 8
+    Pitch: 0
+  - Timing: 9
+    Pitch: 0
+  - Timing: 10
+    Pitch: 0
+  - Timing: 11
+    Pitch: 0
+  - Timing: 12
+    Pitch: 0
+  - Timing: 13
+    Pitch: 0
+  - Timing: 14
+    Pitch: 0
+  - Timing: 15
+    Pitch: 0
+  - Timing: 16
+    Pitch: 1
+  - Timing: 17
+    Pitch: 1
+  - Timing: 18
+    Pitch: 1
+  - Timing: 19
+    Pitch: 1
+  - Timing: 20
+    Pitch: 3
+  - Timing: 21
+    Pitch: 3
+  - Timing: 22
+    Pitch: 3
+  - Timing: 23
+    Pitch: 3
+  - Timing: 24
+    Pitch: 3
+  - Timing: 24.5
+    Pitch: 2
+  - Timing: 25
+    Pitch: 1
+  - Timing: 25.5
+    Pitch: 0
+  - Timing: 26
+    Pitch: 3
+  - Timing: 26.25
+    Pitch: 3
+  - Timing: 26.5
+    Pitch: 2
+  - Timing: 27
+    Pitch: 1
+  - Timing: 27.5
+    Pitch: 0
+  - Timing: 28
+    Pitch: 3
+  - Timing: 28.5
+    Pitch: 2
+  - Timing: 29
+    Pitch: 1
+  - Timing: 29.5
+    Pitch: 0
+  - Timing: 30
+    Pitch: 3
+  - Timing: 30.5
+    Pitch: 2
+  - Timing: 31
+    Pitch: 1
+  - Timing: 31.5
+    Pitch: 0
+  - Timing: 32
+    Pitch: 3
+  - Timing: 32.5
+    Pitch: 1
+  - Timing: 33
+    Pitch: 3
+  - Timing: 33.5
+    Pitch: 0
+  - Timing: 34
+    Pitch: 2
+  - Timing: 34.5
+    Pitch: 1
+  - Timing: 35
+    Pitch: 3
+  - Timing: 35.5
+    Pitch: 1
+  - Timing: 36
+    Pitch: 3
+  - Timing: 36.5
+    Pitch: 1
+  - Timing: 37
+    Pitch: 3
+  - Timing: 37.5
+    Pitch: 1
+  - Timing: 38
+    Pitch: 4
+  - Timing: 38.5
+    Pitch: 2
+  - Timing: 38.75
+    Pitch: 3
+  - Timing: 39
+    Pitch: 3
+  - Timing: 39.25
+    Pitch: 3
+  - Timing: 39.5
+    Pitch: 2
+  - Timing: 39.75
+    Pitch: 2
+  - Timing: 40
+    Pitch: 3
+  - Timing: 40.5
+    Pitch: 2
+  - Timing: 41
+    Pitch: 1
+  - Timing: 41.5
+    Pitch: 0
+  - Timing: 42
+    Pitch: 3
+  - Timing: 42.5
+    Pitch: 2
+  - Timing: 43
+    Pitch: 1
+  - Timing: 43.5
+    Pitch: 0
+  - Timing: 44
+    Pitch: 4
+  - Timing: 44.5
+    Pitch: 2
+  - Timing: 45
+    Pitch: 1
+  - Timing: 45.5
+    Pitch: 0
+  - Timing: 45.75
+    Pitch: 0
+  - Timing: 46
+    Pitch: 2
+  - Timing: 46.25
+    Pitch: 2
+  - Timing: 46.5
+    Pitch: 3
+  - Timing: 47
+    Pitch: 1
+  - Timing: 47.5
+    Pitch: 0
+  - Timing: 48
+    Pitch: 3
+  - Timing: 48.5
+    Pitch: 1
+  - Timing: 49
+    Pitch: 3
+  - Timing: 49.5
+    Pitch: 1
+  - Timing: 50
+    Pitch: 3
+  - Timing: 50.5
+    Pitch: 1
+  - Timing: 51
+    Pitch: 2
+  - Timing: 51.5
+    Pitch: 3
+  - Timing: 52
+    Pitch: 2
+  - Timing: 52.5
+    Pitch: 3
+  - Timing: 53
+    Pitch: 2
+  - Timing: 53.5
+    Pitch: 4
+  - Timing: 54
+    Pitch: 2
+  - Timing: 54.5
+    Pitch: 3
+  - Timing: 54.75
+    Pitch: 3
+  - Timing: 55
+    Pitch: 2
+  - Timing: 55.5
+    Pitch: 3
+  - Timing: 56
+    Pitch: 2
+  - Timing: 56.5
+    Pitch: 1
+  - Timing: 57
+    Pitch: 0
+  - Timing: 57.5
+    Pitch: 3
+  - Timing: 57.75
+    Pitch: 3
+  - Timing: 58
+    Pitch: 2
+  - Timing: 58.5
+    Pitch: 1
+  - Timing: 59
+    Pitch: 0
+  - Timing: 59.5
+    Pitch: 3
+  - Timing: 60
+    Pitch: 2
+  - Timing: 60.5
+    Pitch: 1
+  - Timing: 61
+    Pitch: 0
+  - Timing: 61.5
+    Pitch: 3
+  - Timing: 62
+    Pitch: 2
+  - Timing: 62.5
+    Pitch: 1
+  - Timing: 63
+    Pitch: 0
+  - Timing: 63.5
+    Pitch: 3
+  - Timing: 64
+    Pitch: 1
+  - Timing: 64.5
+    Pitch: 2
+  - Timing: 65
+    Pitch: 1
+  - Timing: 65.5
+    Pitch: 3
+  - Timing: 66
+    Pitch: 2
+  - Timing: 66.5
+    Pitch: 1
+  - Timing: 67
+    Pitch: 2
+  - Timing: 67.5
+    Pitch: 1
+  - Timing: 68
+    Pitch: 2
+  - Timing: 68.5
+    Pitch: 1
+  - Timing: 69
+    Pitch: 2
+  - Timing: 69.5
+    Pitch: 1
+  - Timing: 70
+    Pitch: 4
+  - Timing: 70.5
+    Pitch: 1
+  - Timing: 71
+    Pitch: 3
+  - Timing: 71.25
+    Pitch: 3
+  - Timing: 71.5
+    Pitch: 2
+  - Timing: 72
+    Pitch: 3
+  - Timing: 72.5
+    Pitch: 2
+  - Timing: 73
+    Pitch: 1
+  - Timing: 73.5
+    Pitch: 0
+  - Timing: 74
+    Pitch: 3
+  - Timing: 74.5
+    Pitch: 2
+  - Timing: 75
+    Pitch: 1
+  - Timing: 75.5
+    Pitch: 0
+  - Timing: 76
+    Pitch: 4
+  - Timing: 76.5
+    Pitch: 2
+  - Timing: 77
+    Pitch: 1
+  - Timing: 77.5
+    Pitch: 0
+  - Timing: 78
+    Pitch: 2
+  - Timing: 78.25
+    Pitch: 2
+  - Timing: 78.5
+    Pitch: 2
+  - Timing: 80
+    Pitch: 3
+  - Timing: 80.5
+    Pitch: 2
+  - Timing: 81
+    Pitch: 1
+  - Timing: 81.5
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
+  - Timing: 0
+    Pitch: 0
